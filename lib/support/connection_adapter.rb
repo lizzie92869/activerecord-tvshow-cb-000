@@ -1,3 +1,5 @@
+
+
 class ConnectionAdapter
   attr_reader :adapter, :database
 
@@ -13,4 +15,3 @@ class ConnectionAdapter
     )
   end
 end
-  
